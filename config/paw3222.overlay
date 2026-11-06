@@ -24,4 +24,6 @@
     /delete-property/ x-input-code;
     /delete-property/ y-input-code;
     /delete-property/ settings-id;
+    /delete-property/ invert-x;
+    /delete-property/ invert-y;
 };
